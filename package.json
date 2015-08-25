@@ -1,0 +1,22 @@
+{
+  "name": "react-connection-form",
+  "version": "1.0.0",
+  "description": "Connection form on a fake Webservver",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amirault Quentin <amirault.quentin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.0.4",
+    "react": "^0.13.3",
+    "react-widgets": "^2.8.0"
+  },
+  "devDependencies": {
+    "reactify": "^1.1.1"
+  }
+}
